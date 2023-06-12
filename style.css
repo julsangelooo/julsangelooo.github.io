@@ -5,6 +5,7 @@
       padding: 0;
     }
     #img-of-school{
+        conetent-align: center;
         position:absolute;
         top:600px;
         width:500px;
